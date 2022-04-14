@@ -2,6 +2,42 @@
 TO-DO  website
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 --What observations or questions do you have about what you’ve learned so far?
 
 i still have a problrm when i attatch the URL of figma project it didnt linked 

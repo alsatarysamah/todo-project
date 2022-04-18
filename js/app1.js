@@ -1,4 +1,4 @@
-var firstName =prompt("enter you first name");
+/*var firstName =prompt("enter you first name");
 var fullName;
 // js 
 var gender =prompt("enter your gender : female or male");

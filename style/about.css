@@ -1,5 +1,42 @@
-body
+header 
 {
+background-color: grey;
+flex-direction: row;
+text-align: center;
+border: 3px solid green;
+display: flex ;
+justify-content: space-between;
 
-    background-color: bisque;
 }
+
+a 
+{
+text-decoration: none;
+}
+.studentName{
+
+    display: flex ;
+    justify-content: space-between;
+    
+
+}
+form
+{
+    width: 300px;
+    margin: 0 auto;
+}
+h2{text-align: center;}
+fotter
+  {display: block;
+    background-color: grey;
+text-align: center;
+  }
+  .button {
+    background-color:rgb(100, 64, 162);
+    
+  }
+  .overview
+  {
+margin:60px;
+
+  }
